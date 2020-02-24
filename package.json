@@ -1,0 +1,7 @@
+{ "name": "Methods",
+    "description": "Learn different methods",
+    "version": "1.0.0",
+    "devDependencies": {},
+    "scripts": {},
+    "main": "JavaScript.js"
+  }
